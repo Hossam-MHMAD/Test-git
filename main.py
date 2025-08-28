@@ -1,11 +1,11 @@
 def greater_than_10(num):
 	return num > 10
 
+# Function
 def divide(a, b):
 	if b == 0:
 		raise ValueError
 	return a / b
-
 
 class Calculater:
 	def __init__(self, num1, num2):
