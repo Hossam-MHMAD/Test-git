@@ -26,3 +26,14 @@ class Calculater:
 	def product(self):
 		return self.num1 * self.num2
 	
+class Elevator:
+	def __init__(self, x, y):
+		self.x = x
+		self.y = y
+	
+	def go_up(self):
+		pass
+
+	def	go_down(self):
+		pass
+

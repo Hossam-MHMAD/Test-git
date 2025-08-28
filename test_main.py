@@ -1,3 +1,4 @@
+import pygame
 # from main import greater_than_10, divide
 # import pytest
 
@@ -8,3 +9,7 @@
 
 # def test_divide():
 # 	with pytest.raises(ValueError):
+
+
+def jump():
+	pass
